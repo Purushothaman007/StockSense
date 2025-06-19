@@ -1,0 +1,5 @@
+mysql-connector-python==8.3.0
+python-dotenv==1.0.1
+yfinance==0.2.36
+tensorflow==2.15.0
+scikit-learn==1.4.2
