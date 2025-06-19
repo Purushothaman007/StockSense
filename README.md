@@ -27,23 +27,6 @@ Predict stock prices with 90% accuracy using deep learning – because the marke
 
 ---
 
-## ⚙ *Setup in 30 Seconds*  
-
-### *Option 1: Local Run (Easy Mode)*  
-bash
-git clone https://github.com/yourusername/Stocksense-AI-personal-finance-stock-assistant.git
-cd StockSense-AI
-pip install -r requirements.txt
-streamlit run app.py
-
-
-### *Option 2: Deploy to Cloud*  
-[![Deploy on Streamlit Cloud](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/cloud)  
-
-bash
-docker build -t Stocksense-AI-personal-finance-stock-assistant
-docker run -p 8501:8501 Stocksense-AI-personal-finance-stock-assistant
-
 
 ## 🎯 *Key Features*  
 
